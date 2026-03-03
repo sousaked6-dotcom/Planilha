@@ -2,3 +2,13 @@ https://docs.google.com/spreadsheets/d/15ceLCgYC4Mu0d-eaaUPZvHvRiFPw7UMEkOLluCde
 
 link plataforma de curso
 https://ais-dev-35tw3fv3vrgejjkddtuf6d-322839065195.us-east1.run.app
+
+prompt 
+na aba /separacao
+crie 3 erros de tela
+Erro 1 (carregando por 5 segundos e depois mensagem):
+(Tela fica girando por 5 segundos)
+Ação inválida
+Erro 2 (tela vermelha):
+(Tela vermelha)
+Pacote a caminho da estação
